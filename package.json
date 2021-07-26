@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/vinicius-godoy/Pupeteer-Currency-Converter#readme",
   "dependencies": {
-    "puppeteer": "^10.1.0"
+    "puppeteer": "^10.1.0",
+    "readline-sync": "^1.4.10"
   }
 }
