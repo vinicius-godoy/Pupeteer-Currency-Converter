@@ -1,0 +1,25 @@
+{
+  "name": "pupeteer-currency-converter",
+  "version": "1.0.0",
+  "description": "A scrapping site that converts currency from google searches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicius-godoy/Pupeteer-Currency-Converter.git"
+  },
+  "keywords": [
+    "scrapping"
+  ],
+  "author": "Vinícius Godoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinicius-godoy/Pupeteer-Currency-Converter/issues"
+  },
+  "homepage": "https://github.com/vinicius-godoy/Pupeteer-Currency-Converter#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
